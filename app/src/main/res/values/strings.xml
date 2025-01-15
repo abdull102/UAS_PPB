@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">reeltime</string>
+    <string name="balikan">Ayo Balikan</string>
+    <string name="fastx">Fast X</string>
+    <string name="arcane">Arcane Season 2</string>
+    <string name="joker">Joker: Folie à Deux</string>
+    <string name="marvel">The Marvels</string>
+    <string name="inside">Inside Out 2</string>
+    <string name="moana">Moana 2</string>
+    <string name="five">Five Feet Apart</string>
+    <string name="time">A Time Called You</string>
+    <string name="queen">Queen of Tears</string>
+    <string name="runner">Lovely Runner</string>
+    <string name="mylovely">My Lovely Angel</string>
+    <string name="whenphone">When The Phone Rings</string>
+    <string name="intestellar">Intestellar</string>
+    <string name="beekeeper">The Beekeeper</string>
+    <string name="despicable">Despiocable Me 4</string>
+    <string name="garfield">The Garfield Movie</string>
+    <string name="saving">Saving Bikini Bottom: The Sandy Cheeks Movie</string>
+    <string name="movie1">coba</string>
+
+    <string name="description_balikan">Selatan reverts to his old ways of life, only needing three days to start dating again</string>
+    <string name="description_fastx">Selama banyak misi dan melawan rintangan yang mustahil, Dom Toretto dan keluarganya telah mengakali </string>
+    <string name="description_arcane">coba</string>
+    <string name="description_joker"> Struggling with his dual identity, failed comedian Arthur Fleck stumbles upon true love</string>
+    <string name="description_marvel">coba</string>
+    <string name="description_inside">coba</string>
+    <string name="description_moana">Moana journeys to the far seas of Oceania after receiving an unexpected call from her wayfinding ancestors</string>
+    <string name="description_five">Stella (Haley Lu Richardson) adalah pasien yang telah mengidap penyakit langka, Cystic Fibrosis sejak usia 7 tahun. </string>
+    <string name="description_time">coba</string>
+    <string name="description_queen">coba</string>
+    <string name="description_runner">coba</string>
+    <string name="description_mylovely">Jae-Shik memiliki sebuah agensi aktris yang masih kecil, akan tetapi dirinya tak memiliki kantor</string>
+    <string name="description_whenphone">coba</string>
+    <string name="description_intestellar">Kondisi bumi yang rusak menimbulkan berbagai macam wabah seorang mantan pilot NASA, bekerja sebagai seorang petani</string>
+    <string name="description_beekeeper">One man brutal campaign for vengeance takes on national stakes after it revealed</string>
+    <string name="description_despicable">Gru welcomes a new member to the family, Gru Jr., who intent on tormenting his dad</string>
+    <string name="description_garfield">After an unexpected reunion with his long-lost father, a scruffy street cat</string>
+    <string name="description_saving">When Bikini Bottom is scooped out of the ocean, Sandy and SpongeBob head to Sandy home state of Texas</string>
+
+</resources>
